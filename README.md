@@ -1,6 +1,5 @@
 ﻿# SOM-to-ANN-Credit-Approval
 
-
 A hybrid machine learning project that combines Self-Organizing Maps (SOM) and Artificial Neural Networks (ANN) to identify high-risk applicants and predict credit card approval outcomes. The model leverages unsupervised learning for anomaly detection and supervised learning for accurate classification.
 
 ---
